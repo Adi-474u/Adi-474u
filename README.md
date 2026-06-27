@@ -13,8 +13,8 @@
 ║                                                      ║
 ║   name    : Adi-474u                                 ║
 ║   focus   : AI / ML + backend dev                   ║
-║   status  : 3rd year CSE student, learning           ║
 ║   os      : Arch Linux                               ║
+║   editor  : Zed                                      ║
 ║   motto   : build it to understand it                ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
