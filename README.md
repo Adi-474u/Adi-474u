@@ -4,7 +4,7 @@
 <!--                     HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:001a2e&height=200&section=header&text=poke%20hunter&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=58&descSize=18&descColor=a855f7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:001a2e&height=200&section=header&text=Adi-474u&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=58&descSize=18&descColor=a855f7&animation=fadeIn" />
 
 <br/>
 
@@ -32,10 +32,10 @@
 ║                    AI OPERATING SYSTEM v2.6                 ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   USER ............... poke hunter                          ║
+║   USER ............... Adi-474u                             ║
 ║   ROLE ............... AI & Machine Learning Developer      ║
 ║   STATUS ............. ██ ONLINE                            ║
-║   CURRENT MISSION .... Building AI Hiring Platform          ║
+║   CURRENT MISSION .... Building Crack — Chat Bot RAG App    ║
 ║   SYSTEM VERSION ..... v2.6.0-stable                        ║
 ║   STACK .............. Python · FastAPI · PyTorch           ║
 ║   LOCATION ........... Earth, Third Rock from the Sun       ║
@@ -70,11 +70,11 @@
 
 ```json
 {
-  "identity"   : "poke hunter — AI & ML Developer",
+  "identity"   : "Adi-474u — AI & ML Developer",
   "focus"      : ["Machine Learning", "Deep Learning", "Backend Systems"],
   "current"    : {
                    "learning"  : ["LangChain", "Docker", "FastAPI", "PostgreSQL"],
-                   "building"  : "AI Hiring Platform — end-to-end intelligent recruitment system",
+                   "building"  : "Crack — local web app where users plug in chat bots, auto-learns via full RAG pipeline",
                    "exploring" : "Neural network architectures & LLM application layers"
                  },
   "principles" : ["Build from scratch to understand deeply",
@@ -219,12 +219,12 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokehunter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d1a&border_color=00fff2&icon_color=a855f7&title_color=00fff2&text_color=c9d1d9&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokehunter&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi-474u&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d1a&border_color=00fff2&icon_color=a855f7&title_color=00fff2&text_color=c9d1d9&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-474u&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=pokehunter&theme=tokyonight-duo&background=0d0d1a&border=00fff2&stroke=a855f7&ring=00fff2&fire=a855f7&currStreakNum=00fff2&sideNums=a855f7&currStreakLabel=00fff2&sideLabels=a855f7&dates=6b7280" />
+<img src="https://streak-stats.demolab.com?user=Adi-474u&theme=tokyonight-duo&background=0d0d1a&border=00fff2&stroke=a855f7&ring=00fff2&fire=a855f7&currStreakNum=00fff2&sideNums=a855f7&currStreakLabel=00fff2&sideLabels=a855f7&dates=6b7280" />
 
 </div>
 
@@ -238,7 +238,7 @@
 
 ### `> git log --all --graph`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pokehunter&bg_color=0d0d1a&color=00fff2&line=a855f7&point=00fff2&area=true&area_color=a855f7&border_color=00fff2&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-474u&bg_color=0d0d1a&color=00fff2&line=a855f7&point=00fff2&area=true&area_color=a855f7&border_color=00fff2&hide_border=false" />
 
 </div>
 
@@ -252,7 +252,7 @@
 
 ### `> ./snake --consume-contributions`
 
-<img src="https://raw.githubusercontent.com/pokehunter/pokehunter/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Adi-474u/Adi-474u/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -272,20 +272,21 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║             ACTIVE BUILD: AI HIRING PLATFORM                 ║
-║                  Intelligent Recruitment OS                  ║
+║                  ACTIVE BUILD: CRACK                         ║
+║           Self-Learning Chat Bot RAG Platform                ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   Automates candidate screening · ML-powered ranking         ║
-║   FastAPI backend · PostgreSQL · LangChain integration       ║
+║   Local-first web app · Users plug in their chat bots        ║
+║   Bots learn automatically via full RAG pipeline             ║
+║   FastAPI backend · PostgreSQL · Jinja2 · LangChain          ║
 ║                                                              ║
 ╠═══════════════ PROGRESS REPORT ══════════════════════════════╣
 ║                                                              ║
-║  Backend API        ███████████░░░░░  70%                   ║
-║  Machine Learning   ████████░░░░░░░░  50%                   ║
-║  Frontend           █████░░░░░░░░░░░  30%                   ║
-║  LLM Integration    ██████░░░░░░░░░░  38%                   ║
-║  Deployment         ██░░░░░░░░░░░░░░  15%                   ║
+║  Backend API        ████████░░░░░░░░  50%                   ║
+║  RAG Pipeline       ██████░░░░░░░░░░  38%                   ║
+║  Frontend (Jinja2)  █████░░░░░░░░░░░  30%                   ║
+║  Bot Integration    ███░░░░░░░░░░░░░  20%                   ║
+║  Deployment         █░░░░░░░░░░░░░░░  10%                   ║
 ║                                                              ║
 ║  STATUS: IN PROGRESS   ETA: T-minus loading...              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -309,7 +310,7 @@
 
 | Project | Stack | Status |
 |:---|:---|:---:|
-| 🤖 **AI Hiring Platform** — Intelligent end-to-end recruitment system with ML candidate ranking and LLM-powered screening | `FastAPI` `PostgreSQL` `LangChain` `Python` | 🟡 In Progress |
+| 💀 **Crack** — Local web app where users plug in their chat bots; bots auto-learn via a full RAG pipeline with document ingestion, vector storage, and retrieval-augmented generation | `FastAPI` `PostgreSQL` `Jinja2` `LangChain` `Python` | 🟡 In Progress |
 | 🧠 **ML Projects** — Hands-on implementations built from scratch: CBOW embeddings, LightGCN, custom backprop, UNet | `PyTorch` `NumPy` `CuPy` `Python` | 🟢 Ongoing |
 | ⚙️ **Backend APIs** — Production-style REST APIs with async patterns, ORM, auth, and modular architecture | `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker` | 🟢 Active |
 | 🎮 **Unity Experiments** — Physics-based systems, car controllers, procedural mechanics, C# event patterns | `Unity` `C#` `Blender` | 🔵 Experimental |
@@ -365,7 +366,7 @@ me.run()
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pokehunter&label=SYSTEM+VISITORS&color=00fff2&style=for-the-badge&labelColor=0d0d1a)
+![Visitor Count](https://komarev.com/ghpvc/?username=Adi-474u&label=SYSTEM+VISITORS&color=00fff2&style=for-the-badge&labelColor=0d0d1a)
 
 </div>
 
@@ -383,22 +384,7 @@ me.run()
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pokehunter-00fff2?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0d0d1a)](https://github.com/pokehunter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=a855f7&labelColor=0d0d1a)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-00fff2?style=for-the-badge&logo=gmail&logoColor=00fff2&labelColor=0d0d1a)](mailto:your@email.com)
-
-<br/>
-
-```
-CONNECTION PROTOCOL
-───────────────────────────────────────────────
-  Open to: Internships · Collabs · Open Source
-  Response time: < 24 hours (usually faster)
-  Preferred channel: GitHub Issues / LinkedIn
-───────────────────────────────────────────────
-  "If you're building something interesting,
-   I want to hear about it."
-```
+[![GitHub](https://img.shields.io/badge/GitHub-Adi--474u-00fff2?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0d0d1a)](https://github.com/Adi-474u)
 
 </div>
 
@@ -408,4 +394,4 @@ CONNECTION PROTOCOL
 <!--                      FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:1a0533,100:0d0d1a&height=120&section=footer&text=poke%20hunter%20%7C%20AI%20Developer&fontSize=16&fontColor=00fff2&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a2e,50:1a0533,100:0d0d1a&height=120&section=footer&text=Adi-474u%20%7C%20AI%20Developer&fontSize=16&fontColor=00fff2&fontAlignY=65&animation=fadeIn" />
