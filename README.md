@@ -53,7 +53,7 @@ stack: FastAPI · PostgreSQL · Jinja2 · LangChain
 
 | project | what it is | status |
 |:---|:---|:---:|
-| 💀 **Crack** | local RAG platform for chat bots, auto-learns from docs | 🟡 wip |
+| 💀 **Crack** | local RAG platform for chat bots, auto-learns from docs | 🟡 ongoing |
 | 👻 **GHOST** | screen-aware AI assistant using local LLMs | 🟢 done-ish |
 | 🧠 **ML stuff** | implementing ML algorithms from scratch to learn them | 🟢 ongoing |
 | 🎮 **Unity lab** | messing around with physics and C# | 🔵 casual |
